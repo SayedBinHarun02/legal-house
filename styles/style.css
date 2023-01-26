@@ -1,0 +1,8 @@
+.bg-img{
+    background-image: url("../images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 550px;
+    color: aliceblue;
+}
